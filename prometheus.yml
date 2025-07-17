@@ -1,0 +1,19 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'otel-collector'
+    static_configs:
+      - targets: ['otel-collector:8889']
+
+  - job_name: 'postgres-exporter'
+    static_configs:
+      - targets: ['postgres-exporter:9187']
+
+  - job_name: 'promtail'
+    static_configs:
+      - targets: ['promtail:9080']
+
+  - job_name: 'bookstore-custom-metrics'
+    static_configs:
+      - targets: ['bookstore-app:9464']

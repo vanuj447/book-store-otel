@@ -1,0 +1,280 @@
+[2025-07-15T13:50:35.538Z] INFO: 📦 Bookstore app running on port 3000
+[2025-07-16T17:39:09.499Z] INFO: 📦 Bookstore app running on port 3000
+[2025-07-16T17:45:22.976Z] INFO: 📦 Bookstore app running on port 3000
+[2025-07-16T17:48:29.351Z] INFO: 📦 Bookstore app running on port 3000
+[2025-07-16T17:51:04.853Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T18:00:06.102Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T18:04:45.335Z] ERROR: Error fetching books: getaddrinfo EAI_AGAIN postgres
+[2025-07-16T18:21:42.372Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T18:24:39.616Z] INFO: Fetched 26 books
+[2025-07-16T18:33:41.074Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T18:34:00.476Z] INFO: Fetched 26 books
+[2025-07-16T18:34:15.234Z] ERROR: DB error during order: relation "orders" does not exist
+[2025-07-16T18:34:15.236Z] ERROR: Order failed: relation "orders" does not exist
+[2025-07-16T18:58:35.088Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T18:58:47.108Z] INFO: Fetched 26 books
+[2025-07-16T18:59:25.675Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T18:59:42.231Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:44.533Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:44.892Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:45.075Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:46.310Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:46.486Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T18:59:46.693Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:00:00.776Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:00:07.320Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:00:29.227Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:00:36.313Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:00:37.305Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:00:37.487Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:00:37.675Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:00:59.381Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:01:15.704Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:05:57.572Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T19:06:00.187Z] INFO: Fetched 26 books
+[2025-07-16T19:06:24.354Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:06:29.338Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:06:30.095Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:06:47.019Z] ERROR: Login error: relation "users" does not exist
+[2025-07-16T19:06:48.721Z] ERROR: Signup error: relation "users" does not exist
+[2025-07-16T19:27:39.708Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T19:35:49.697Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T19:37:57.634Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T19:47:01.811Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T20:08:48.778Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T20:09:10.731Z] INFO: Fetched 26 books
+[2025-07-16T20:09:52.455Z] INFO: Payment successful for order 1
+[2025-07-16T20:09:52.458Z] INFO: Order 1 completed in 1.292s
+[2025-07-16T20:13:33.055Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-16T20:20:07.041Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T00:07:27.577Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T00:07:41.082Z] INFO: Fetched 26 books
+[2025-07-17T00:08:15.402Z] INFO: Payment successful for order 1
+[2025-07-17T00:08:15.403Z] INFO: Order 1 completed in 1.352s
+[2025-07-17T00:08:16.696Z] ERROR: Payment failed for order 2
+[2025-07-17T00:08:16.697Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T00:08:17.122Z] INFO: Payment successful for order 3
+[2025-07-17T00:08:17.123Z] INFO: Order 3 completed in 0.674s
+[2025-07-17T00:08:17.334Z] INFO: Payment successful for order 5
+[2025-07-17T00:08:17.334Z] INFO: Order 5 completed in 0.454s
+[2025-07-17T00:08:17.510Z] INFO: Payment successful for order 7
+[2025-07-17T00:08:17.511Z] INFO: Order 7 completed in 0.221s
+[2025-07-17T00:08:17.974Z] INFO: Payment successful for order 4
+[2025-07-17T00:08:17.975Z] INFO: Order 4 completed in 1.293s
+[2025-07-17T00:08:18.041Z] INFO: Payment successful for order 6
+[2025-07-17T00:08:18.042Z] INFO: Order 6 completed in 0.951s
+[2025-07-17T00:08:22.422Z] ERROR: DB error during order: Book not found
+[2025-07-17T00:08:22.422Z] ERROR: Order failed: Book not found
+[2025-07-17T00:08:27.836Z] INFO: Payment successful for order 8
+[2025-07-17T00:08:27.838Z] INFO: Order 8 completed in 0.374s
+[2025-07-17T00:08:31.910Z] INFO: Payment successful for order 9
+[2025-07-17T00:08:31.911Z] INFO: Order 9 completed in 0.565s
+[2025-07-17T00:08:39.846Z] INFO: Payment successful for order 10
+[2025-07-17T00:08:39.847Z] INFO: Order 10 completed in 0.86s
+[2025-07-17T00:21:50.634Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T00:21:53.052Z] ERROR: Signup error: duplicate key value violates unique constraint "users_email_key"
+[2025-07-17T00:21:59.970Z] ERROR: Payment failed for order 11
+[2025-07-17T00:21:59.971Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T00:22:02.543Z] INFO: Payment successful for order 12
+[2025-07-17T00:22:02.544Z] INFO: Order 12 completed in 1.127s
+[2025-07-17T00:22:03.016Z] INFO: Payment successful for order 14
+[2025-07-17T00:22:03.016Z] INFO: Order 14 completed in 0.713s
+[2025-07-17T00:22:03.518Z] INFO: Payment successful for order 13
+[2025-07-17T00:22:03.518Z] INFO: Order 13 completed in 1.503s
+[2025-07-17T00:22:03.783Z] INFO: Payment successful for order 15
+[2025-07-17T00:22:03.786Z] INFO: Order 15 completed in 1.217s
+[2025-07-17T00:22:06.247Z] INFO: Payment successful for order 16
+[2025-07-17T00:22:06.248Z] INFO: Order 16 completed in 0.868s
+[2025-07-17T00:22:07.399Z] INFO: Payment successful for order 18
+[2025-07-17T00:22:07.399Z] INFO: Order 18 completed in 1.161s
+[2025-07-17T00:22:07.463Z] INFO: Payment successful for order 17
+[2025-07-17T00:22:07.464Z] INFO: Order 17 completed in 1.488s
+[2025-07-17T00:22:11.565Z] INFO: Payment successful for order 19
+[2025-07-17T00:22:11.566Z] INFO: Order 19 completed in 0.636s
+[2025-07-17T00:22:16.850Z] ERROR: Payment failed for order 20
+[2025-07-17T00:22:16.851Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T00:22:22.481Z] INFO: Payment successful for order 21
+[2025-07-17T00:22:22.481Z] INFO: Order 21 completed in 0.796s
+[2025-07-17T00:22:23.838Z] INFO: Payment successful for order 23
+[2025-07-17T00:22:23.838Z] INFO: Order 23 completed in 0.322s
+[2025-07-17T00:22:24.059Z] INFO: Payment successful for order 22
+[2025-07-17T00:22:24.060Z] INFO: Order 22 completed in 0.819s
+[2025-07-17T00:22:32.403Z] INFO: Payment successful for order 24
+[2025-07-17T00:22:32.404Z] INFO: Order 24 completed in 0.678s
+[2025-07-17T00:22:34.616Z] INFO: Payment successful for order 25
+[2025-07-17T00:22:34.616Z] INFO: Order 25 completed in 0.194s
+[2025-07-17T00:22:37.667Z] INFO: Payment successful for order 26
+[2025-07-17T00:22:37.668Z] INFO: Order 26 completed in 0.829s
+[2025-07-17T00:22:46.743Z] INFO: Fetched 26 books
+[2025-07-17T00:23:16.337Z] ERROR: Payment failed for order 27
+[2025-07-17T00:23:16.337Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T00:23:18.664Z] INFO: Payment successful for order 28
+[2025-07-17T00:23:18.665Z] INFO: Order 28 completed in 0.609s
+[2025-07-17T00:23:23.341Z] INFO: Payment successful for order 29
+[2025-07-17T00:23:23.341Z] INFO: Order 29 completed in 1.489s
+[2025-07-17T00:23:24.536Z] INFO: Payment successful for order 30
+[2025-07-17T00:23:24.536Z] INFO: Order 30 completed in 0.559s
+[2025-07-17T00:23:25.871Z] ERROR: Payment failed for order 31
+[2025-07-17T00:23:25.871Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T00:23:32.987Z] INFO: Payment successful for order 32
+[2025-07-17T00:23:32.987Z] INFO: Order 32 completed in 0.875s
+[2025-07-17T00:23:34.452Z] INFO: Payment successful for order 33
+[2025-07-17T00:23:34.453Z] INFO: Order 33 completed in 0.923s
+[2025-07-17T01:12:57.338Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T01:16:35.166Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T01:32:28.952Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T01:33:35.254Z] ERROR: Signup error: duplicate key value violates unique constraint "users_email_key"
+[2025-07-17T01:33:36.743Z] ERROR: Signup error: duplicate key value violates unique constraint "users_email_key"
+[2025-07-17T01:33:38.728Z] ERROR: Signup error: duplicate key value violates unique constraint "users_email_key"
+[2025-07-17T01:33:39.479Z] ERROR: Signup error: duplicate key value violates unique constraint "users_email_key"
+[2025-07-17T01:33:48.575Z] INFO: Payment successful for order 34
+[2025-07-17T01:33:48.576Z] INFO: Order 34 completed in 0.547s
+[2025-07-17T01:36:55.331Z] INFO: Payment successful for order 35
+[2025-07-17T01:36:55.331Z] INFO: Order 35 completed in 1.272s
+[2025-07-17T01:36:55.667Z] INFO: Payment successful for order 36
+[2025-07-17T01:36:55.669Z] INFO: Order 36 completed in 0.904s
+[2025-07-17T01:36:55.774Z] INFO: Payment successful for order 38
+[2025-07-17T01:36:55.774Z] INFO: Order 38 completed in 0.307s
+[2025-07-17T01:36:56.568Z] INFO: Payment successful for order 37
+[2025-07-17T01:36:56.570Z] INFO: Order 37 completed in 1.364s
+[2025-07-17T01:36:56.684Z] INFO: Payment successful for order 39
+[2025-07-17T01:36:56.684Z] INFO: Order 39 completed in 0.792s
+[2025-07-17T01:36:57.149Z] INFO: Payment successful for order 41
+[2025-07-17T01:36:57.151Z] INFO: Order 41 completed in 0.883s
+[2025-07-17T01:36:57.343Z] INFO: Payment successful for order 43
+[2025-07-17T01:36:57.344Z] INFO: Order 43 completed in 0.452s
+[2025-07-17T01:36:57.420Z] INFO: Payment successful for order 40
+[2025-07-17T01:36:57.420Z] INFO: Order 40 completed in 1.338s
+[2025-07-17T01:36:57.686Z] INFO: Payment successful for order 42
+[2025-07-17T01:36:57.687Z] INFO: Order 42 completed in 1.07s
+[2025-07-17T01:36:58.060Z] INFO: Payment successful for order 45
+[2025-07-17T01:36:58.061Z] INFO: Order 45 completed in 0.801s
+[2025-07-17T01:36:58.093Z] INFO: Payment successful for order 47
+[2025-07-17T01:36:58.094Z] INFO: Order 47 completed in 0.5s
+[2025-07-17T01:36:58.334Z] INFO: Payment successful for order 48
+[2025-07-17T01:36:58.334Z] INFO: Order 48 completed in 0.568s
+[2025-07-17T01:36:58.536Z] INFO: Payment successful for order 44
+[2025-07-17T01:36:58.537Z] INFO: Order 44 completed in 1.488s
+[2025-07-17T01:36:58.574Z] INFO: Payment successful for order 46
+[2025-07-17T01:36:58.575Z] INFO: Order 46 completed in 1.149s
+[2025-07-17T01:36:58.852Z] INFO: Payment successful for order 51
+[2025-07-17T01:36:58.853Z] INFO: Order 51 completed in 0.559s
+[2025-07-17T01:36:59.084Z] INFO: Payment successful for order 54
+[2025-07-17T01:36:59.085Z] INFO: Order 54 completed in 0.19s
+[2025-07-17T01:36:59.346Z] INFO: Payment successful for order 49
+[2025-07-17T01:36:59.346Z] INFO: Order 49 completed in 1.416s
+[2025-07-17T01:36:59.549Z] INFO: Payment successful for order 50
+[2025-07-17T01:36:59.550Z] INFO: Order 50 completed in 1.448s
+[2025-07-17T01:36:59.560Z] INFO: Payment successful for order 52
+[2025-07-17T01:36:59.561Z] INFO: Order 52 completed in 1.116s
+[2025-07-17T01:36:59.669Z] INFO: Payment successful for order 55
+[2025-07-17T01:36:59.669Z] INFO: Order 55 completed in 0.587s
+[2025-07-17T01:36:59.844Z] INFO: Payment successful for order 53
+[2025-07-17T01:36:59.845Z] INFO: Order 53 completed in 1.251s
+[2025-07-17T01:37:00.083Z] INFO: Payment successful for order 60
+[2025-07-17T01:37:00.084Z] INFO: Order 60 completed in 0.12s
+[2025-07-17T01:37:00.351Z] INFO: Payment successful for order 56
+[2025-07-17T01:37:00.352Z] INFO: Order 56 completed in 1.069s
+[2025-07-17T01:37:00.495Z] INFO: Payment successful for order 58
+[2025-07-17T01:37:00.496Z] INFO: Order 58 completed in 0.878s
+[2025-07-17T01:37:00.635Z] INFO: Payment successful for order 57
+[2025-07-17T01:37:00.636Z] INFO: Order 57 completed in 1.197s
+[2025-07-17T01:37:00.769Z] INFO: Payment successful for order 61
+[2025-07-17T01:37:00.769Z] INFO: Order 61 completed in 0.633s
+[2025-07-17T01:37:01.254Z] ERROR: Payment failed for order 62
+[2025-07-17T01:37:01.254Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:37:01.297Z] INFO: Payment successful for order 59
+[2025-07-17T01:37:01.298Z] INFO: Order 59 completed in 1.509s
+[2025-07-17T01:37:01.791Z] INFO: Payment successful for order 63
+[2025-07-17T01:37:01.791Z] INFO: Order 63 completed in 1.29s
+[2025-07-17T01:37:01.838Z] INFO: Payment successful for order 64
+[2025-07-17T01:37:01.839Z] INFO: Order 64 completed in 1.174s
+[2025-07-17T01:37:02.155Z] ERROR: Payment failed for order 65
+[2025-07-17T01:37:02.156Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:37:02.229Z] INFO: Payment successful for order 66
+[2025-07-17T01:37:02.229Z] INFO: Order 66 completed in 1.168s
+[2025-07-17T01:37:02.505Z] INFO: Payment successful for order 68
+[2025-07-17T01:37:02.507Z] INFO: Order 68 completed in 1.124s
+[2025-07-17T01:37:02.776Z] INFO: Payment successful for order 67
+[2025-07-17T01:37:02.777Z] INFO: Order 67 completed in 1.508s
+[2025-07-17T01:37:07.282Z] INFO: Payment successful for order 69
+[2025-07-17T01:37:07.283Z] INFO: Order 69 completed in 0.626s
+[2025-07-17T01:37:07.335Z] ERROR: Payment failed for order 70
+[2025-07-17T01:37:07.336Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:37:07.869Z] INFO: Payment successful for order 71
+[2025-07-17T01:37:07.870Z] INFO: Order 71 completed in 0.491s
+[2025-07-17T01:37:08.020Z] INFO: Payment successful for order 72
+[2025-07-17T01:37:08.021Z] INFO: Order 72 completed in 0.42s
+[2025-07-17T01:37:08.899Z] INFO: Payment successful for order 73
+[2025-07-17T01:37:08.901Z] INFO: Order 73 completed in 0.823s
+[2025-07-17T01:37:08.970Z] INFO: Payment successful for order 75
+[2025-07-17T01:37:08.971Z] INFO: Order 75 completed in 0.133s
+[2025-07-17T01:37:09.728Z] INFO: Payment successful for order 74
+[2025-07-17T01:37:09.730Z] INFO: Order 74 completed in 1.445s
+[2025-07-17T01:37:13.069Z] ERROR: DB error during order: Book not found
+[2025-07-17T01:37:13.070Z] ERROR: Order failed: Book not found
+[2025-07-17T01:37:13.610Z] ERROR: DB error during order: Book not found
+[2025-07-17T01:37:13.611Z] ERROR: Order failed: Book not found
+[2025-07-17T01:37:13.869Z] ERROR: DB error during order: Book not found
+[2025-07-17T01:37:13.869Z] ERROR: Order failed: Book not found
+[2025-07-17T01:40:17.301Z] INFO: Payment successful for order 76
+[2025-07-17T01:40:17.304Z] INFO: Order 76 completed in 0.312s
+[2025-07-17T01:40:18.214Z] ERROR: Payment failed for order 77
+[2025-07-17T01:40:18.214Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:40:18.280Z] INFO: Payment successful for order 80
+[2025-07-17T01:40:18.283Z] INFO: Order 80 completed in 0.536s
+[2025-07-17T01:40:18.333Z] INFO: Payment successful for order 82
+[2025-07-17T01:40:18.334Z] INFO: Order 82 completed in 0.152s
+[2025-07-17T01:40:18.463Z] INFO: Payment successful for order 78
+[2025-07-17T01:40:18.472Z] INFO: Order 78 completed in 1.079s
+[2025-07-17T01:40:18.529Z] ERROR: Payment failed for order 81
+[2025-07-17T01:40:18.532Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:40:18.618Z] INFO: Payment successful for order 79
+[2025-07-17T01:40:18.621Z] INFO: Order 79 completed in 1.055s
+[2025-07-17T01:40:19.127Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T01:40:19.127Z] ERROR: Order failed: Book out of stock
+[2025-07-17T01:40:19.344Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T01:40:19.344Z] ERROR: Order failed: Book out of stock
+[2025-07-17T01:40:19.525Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T01:40:19.525Z] ERROR: Order failed: Book out of stock
+[2025-07-17T01:40:19.746Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T01:40:19.747Z] ERROR: Order failed: Book out of stock
+[2025-07-17T01:40:19.792Z] INFO: Payment successful for order 85
+[2025-07-17T01:40:19.793Z] INFO: Order 85 completed in 0.966s
+[2025-07-17T01:40:19.880Z] INFO: Payment successful for order 83
+[2025-07-17T01:40:19.880Z] INFO: Order 83 completed in 1.4s
+[2025-07-17T01:40:19.901Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T01:40:19.901Z] ERROR: Order failed: Book out of stock
+[2025-07-17T01:40:20.094Z] INFO: Payment successful for order 84
+[2025-07-17T01:40:20.095Z] INFO: Order 84 completed in 1.462s
+[2025-07-17T01:40:20.337Z] INFO: Payment successful for order 86
+[2025-07-17T01:40:20.337Z] INFO: Order 86 completed in 1.408s
+[2025-07-17T01:40:27.878Z] INFO: Payment successful for order 89
+[2025-07-17T01:40:27.878Z] INFO: Order 89 completed in 0.485s
+[2025-07-17T01:40:27.959Z] INFO: Payment successful for order 87
+[2025-07-17T01:40:27.961Z] INFO: Order 87 completed in 1.272s
+[2025-07-17T01:40:28.325Z] ERROR: Payment failed for order 88
+[2025-07-17T01:40:28.325Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:40:28.778Z] INFO: Payment successful for order 91
+[2025-07-17T01:40:28.781Z] INFO: Order 91 completed in 0.142s
+[2025-07-17T01:40:29.094Z] ERROR: Payment failed for order 90
+[2025-07-17T01:40:29.095Z] ERROR: Order failed: Payment processing failed
+[2025-07-17T01:40:29.186Z] INFO: Payment successful for order 92
+[2025-07-17T01:40:29.186Z] INFO: Order 92 completed in 0.259s
+[2025-07-17T01:40:30.319Z] INFO: Payment successful for order 95
+[2025-07-17T01:40:30.319Z] INFO: Order 95 completed in 0.28s
+[2025-07-17T01:40:30.350Z] INFO: Payment successful for order 94
+[2025-07-17T01:40:30.351Z] INFO: Order 94 completed in 0.53s
+[2025-07-17T01:40:30.752Z] INFO: Payment successful for order 93
+[2025-07-17T01:40:30.753Z] INFO: Order 93 completed in 1.145s
+[2025-07-17T01:40:34.471Z] ERROR: DB error during order: Book not found
+[2025-07-17T01:40:34.471Z] ERROR: Order failed: Book not found
+[2025-07-17T02:11:35.235Z] INFO: 📦 Bookstore app running on port 3001
+[2025-07-17T02:11:49.674Z] INFO: Fetched 26 books
+[2025-07-17T02:12:19.612Z] ERROR: Login error: Incorrect password
+[2025-07-17T02:12:33.931Z] ERROR: DB error during order: Book out of stock
+[2025-07-17T02:12:33.933Z] ERROR: Order failed: Book out of stock
+[2025-07-17T02:12:45.176Z] INFO: Payment successful for order 96
+[2025-07-17T02:12:45.178Z] INFO: Order 96 completed in 0.96s
+[2025-07-17T02:12:46.379Z] ERROR: Payment failed for order 97
+[2025-07-17T02:12:46.380Z] ERROR: Order failed: Payment processing failed
